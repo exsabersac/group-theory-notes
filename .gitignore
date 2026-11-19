@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+*.swn
+*.tmp
+*.bak
+*.orig
+.idea/
+.vscode/
+*.code-workspace
+__pycache__/
+.ipynb_checkpoints/
