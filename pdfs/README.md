@@ -4,7 +4,7 @@
 
 **商业教材请自行购买纸书或电子正版。** 本仓库不提供丘维声、张禾瑞、石生明、韩士安 / 林磊、冯克勤、聂灵沼 / 丁石孙、徐明曜、Artin *Algebra*、Carter *Visual Group Theory* 等受版权保护教材的扫描件，也不收录网盘、文库或未授权来源。
 
-目前收录 41 个文件，合计约 20 MB。若权利人要求撤下某份副本，请开 Issue，我们会删除。
+目前收录 57 个文件，合计约 30 MB。若权利人要求撤下某份副本，请开 Issue，我们会删除。
 
 ## 目录一览
 
@@ -15,6 +15,9 @@
 | [conrad/](conrad/) | Keith Conrad 群论讲义（学习路径相关篇，非其站点全部文章） | 作者主页免费公开讲义，未见统一开放许可，见下 |
 | [mit-ocw-18.703/](mit-ocw-18.703/) | MIT OCW 18.703 群论部分讲义 | CC BY-NC-SA 4.0 |
 | [ernst/](ernst/) | Dana Ernst《An Inquiry-Based Approach to Abstract Algebra》 | CC BY-SA 4.0 |
+| [carter-vgt/](carter-vgt/) | Carter《Visual Group Theory》官方样章（目录、前言、概述，不是全书） | 作者官方公开样章，全书仍须购买 |
+| [macauley-vgt/](macauley-vgt/) | Macauley Math 4120 章节幻灯片及两份课程文档 | CC BY-NC-SA 4.0 |
+| [ernst-vgt/](ernst-vgt/) | Ernst 2009 年《Visual Group Theory》课程前四章讲义 | 作者课程页公开讲义，未见统一开放许可，见下 |
 
 ## Judson（开放教材）
 
@@ -106,11 +109,59 @@
 | --- | --- | --- |
 | [Ernst-Inquiry-Based-Approach-to-Abstract-Algebra-Fall2021.pdf](ernst/Ernst-Inquiry-Based-Approach-to-Abstract-Algebra-Fall2021.pdf) | https://raw.githubusercontent.com/dcernst/IBL-AbstractAlgebra/master/Fall2021/IBL-AbstractAlgebra.pdf | 874 KB |
 
+
+## Carter《Visual Group Theory》官方样章
+
+- 作者：Nathan Carter
+- 原页：[Visual Group Theory – Nathan Carter](https://nathancarter.github.io/vgt.html)；购买页：[AMS / MAA Press CLRM-32](https://bookstore.ams.org/clrm-32)
+- 许可：这三份是作者在个人站点公开的样章（目录、前言、概述），供了解这本书的讲法。它们**不是全书**，也不可当作免费教材。完整纸书或电子正版请自行购买。
+- 相关资源索引：[Visual Group Theory 相关资料](../resources/Visual-Group-Theory.md)
+
+| 本地文件 | 来源 URL | 大小 |
+| --- | --- | --- |
+| [Carter-Visual-Group-Theory-contents.pdf](carter-vgt/Carter-Visual-Group-Theory-contents.pdf) | https://nathancarter.github.io/files/vgt-contents.pdf | 105 KB |
+| [Carter-Visual-Group-Theory-preface.pdf](carter-vgt/Carter-Visual-Group-Theory-preface.pdf) | https://nathancarter.github.io/files/vgt-preface.pdf | 55 KB |
+| [Carter-Visual-Group-Theory-overview.pdf](carter-vgt/Carter-Visual-Group-Theory-overview.pdf) | https://nathancarter.github.io/files/vgt-overview.pdf | 37 KB |
+
+## Matthew Macauley Math 4120 章节幻灯片
+
+- 作者：Matthew Macauley（Clemson University）
+- 原页：[Math 4120, Summer I 2020](https://www.math.clemson.edu/~macaule/classes/m20_math4120/)；材料索引：[youtube.html](https://www.math.clemson.edu/~macaule/youtube.html)
+- 许可：作者在材料索引页声明，其课程材料为 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- 说明：收入的是与 YouTube 课《Visual Group Theory》对应的**章节**幻灯片（handout 版），外加教学大纲与一篇讲魔方的短文。各讲单独的幻灯片、作业与旧试卷请到课程页下载，避免与章节版大量重复。本机访问该站若遇证书或 500 错误，可先用仓库副本。
+
+| 本地文件 | 来源 URL | 大小 |
+| --- | --- | --- |
+| [Macauley-Math4120-section1-Groups-intuitively.pdf](macauley-vgt/Macauley-Math4120-section1-Groups-intuitively.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/slides/math4120_slides_section1_h.pdf | 2.06 MB |
+| [Macauley-Math4120-section2-Examples-of-groups.pdf](macauley-vgt/Macauley-Math4120-section2-Examples-of-groups.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/slides/math4120_slides_section2_h.pdf | 1.27 MB |
+| [Macauley-Math4120-section3-Structure-of-groups.pdf](macauley-vgt/Macauley-Math4120-section3-Structure-of-groups.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/slides/math4120_slides_section3_h.pdf | 410 KB |
+| [Macauley-Math4120-section4-Maps-between-groups.pdf](macauley-vgt/Macauley-Math4120-section4-Maps-between-groups.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/slides/math4120_slides_section4_h.pdf | 551 KB |
+| [Macauley-Math4120-section5-Groups-acting-on-sets.pdf](macauley-vgt/Macauley-Math4120-section5-Groups-acting-on-sets.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/slides/math4120_slides_section5_h.pdf | 931 KB |
+| [Macauley-Math4120-section6-Field-and-Galois-theory.pdf](macauley-vgt/Macauley-Math4120-section6-Field-and-Galois-theory.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/slides/math4120_slides_section6_h.pdf | 1.24 MB |
+| [Macauley-Math4120-section7-Ring-theory.pdf](macauley-vgt/Macauley-Math4120-section7-Ring-theory.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/slides/math4120_slides_section7_h.pdf | 2.78 MB |
+| [Macauley-group-theory-and-the-Rubiks-cube.pdf](macauley-vgt/Macauley-group-theory-and-the-Rubiks-cube.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/docs/group-theory-rubiks.pdf | 306 KB |
+| [Macauley-Math4120-syllabus-Summer2020.pdf](macauley-vgt/Macauley-Math4120-syllabus-Summer2020.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/m20_math4120_syllabus.pdf | 98 KB |
+
+## Dana Ernst 2009 年 Visual Group Theory 课程讲义（第 1–4 章）
+
+- 作者：Dana C. Ernst
+- 原页：[Visual Group Theory (Summer 2009)](https://danaernst.com/archive/Summer2009/MG5860/5860.html)
+- 许可：作者在课程页公开了前四章讲义。后几章因大量使用 Carter 书中插图，作者以版权为由没有公开发布，本仓库也不收录。这四章未见统一的 Creative Commons 标注，只作离线副本并保留原链；请勿默认可以再改编或另作商业使用。
+- 注意：课程页上部分相对链接会拼出错误的重复路径并返回 404。下表是已核对可下载的地址。
+
+| 本地文件 | 来源 URL | 大小 |
+| --- | --- | --- |
+| [Ernst-VGT-notes-ch1-What-is-a-group.pdf](ernst-vgt/Ernst-VGT-notes-ch1-What-is-a-group.pdf) | https://danaernst.com/archive/Summer2009/MG5860/VGTNotes1(handout).pdf | 178 KB |
+| [Ernst-VGT-notes-ch2-What-do-groups-look-like.pdf](ernst-vgt/Ernst-VGT-notes-ch2-What-do-groups-look-like.pdf) | https://danaernst.com/archive/Summer2009/MG5860/VGTNotes2(handout).pdf | 80 KB |
+| [Ernst-VGT-notes-ch3-Why-study-groups.pdf](ernst-vgt/Ernst-VGT-notes-ch3-Why-study-groups.pdf) | https://danaernst.com/archive/Summer2009/MG5860/VGTNotes3(handout).pdf | 142 KB |
+| [Ernst-VGT-notes-ch4-Algebra-at-last.pdf](ernst-vgt/Ernst-VGT-notes-ch4-Algebra-at-last.pdf) | https://danaernst.com/archive/Summer2009/MG5860/VGTNotes4(handout).pdf | 154 KB |
+
 ## 查过但没有收入的重要项
 
-- **所有列出的中文商业教材与 Artin、Carter 的书：** 只有购买页，没有官方免费全文 PDF，不收录扫描件。
+- **所有列出的中文商业教材与 Artin、Carter 的书：** 没有官方免费全文 PDF，不收录扫描件。Carter 的书仅收入作者公开的目录、前言与概述，见 [carter-vgt/](carter-vgt/)。
 - **上海交通大学高云《抽象代数》讲义：** 官方站点提供在线阅读（KaTeX 网页），**没有可直接下载的官方 PDF**。请看 <https://ai4edu.sjtu.edu.cn/cxds/lectures>，不要把网页自行打印成书再放进仓库。
 - **清华大学课程笔记 THU_AMA（CC BY 4.0）：** 官方提供的是 Typst 源码与 [GitHub Pages 网页](https://duskmoon314.github.io/THU_AMA/)，仓库中无现成 PDF，未自行编译成书。
 - **LittleNewton《近世代数笔记》（Apache-2.0）：** 仓库里仅有一份约 50 MB 的 `近世代数-final-exam.pdf`（期末考试扫描/文件），不是系统讲义 PDF，且考试卷版权也未必属于笔记作者，故不收录。请看 <https://github.com/LittleNewton/Modern_Algebra_NOTES>。
-- **Matthew Macauley 院校讲义 PDF：** 其 Clemson 课程页曾列出章节幻灯片，但收集时 `math.clemson.edu` 返回失败或 500，无法核对文件，故未下载。视频课仍见 [英文补充](../resources/英文补充.md) 中的 YouTube 列表。
+- **Matthew Macauley 课程的分讲幻灯片与全部作业：** 章节幻灯片已收入 [macauley-vgt/](macauley-vgt/)；各讲单独版本与作业仍请到[原课程页](https://www.math.clemson.edu/~macaule/classes/m20_math4120/)下载。
+- **Carter《Visual Group Theory》全书与 JSTOR 分章 PDF：** 版权教材，只收作者官方样章，不收录扫描件。
 - **南京大学离散数学课件** `http://ws.nju.edu.cn/courses/dm/courseware/20150420-Group_theory_introduction.pdf`：请求返回 500，已丢弃。

@@ -9,8 +9,8 @@
 1. 先读 [学习路径](学习路径.md)，按阶段推进，不要一上来同时开很多本书。
 2. 选定**一本主教材 + 一门系统视频课**，其余资源只作对照或查缺。
 3. 从本仓库的 [笔记：群的定义](notes/01-群的定义.md) 核对基本概念，再自己动手补例子与证明。
-4. 需要可视化直觉时，可配合英文补充里的 *Visual Group Theory* 与 Group Explorer。
-5. 离线阅读请看 [pdfs/](pdfs/README.md)：现有 Judson 开放教材、Milne 与 Conrad 讲义、MIT OCW 群论讲义、Ernst 的 IBL 教材等官方副本。中文系统讲义目前多是网页（如交大高云），没有官方 PDF，请到原站阅读。
+4. 需要可视化直觉时，可配合 [*Visual Group Theory* 相关资料](resources/Visual-Group-Theory.md) 与 Group Explorer。
+5. 离线阅读请看 [pdfs/](pdfs/README.md)：现有 Judson 开放教材、Milne 与 Conrad 讲义、MIT OCW 群论讲义、Ernst 的 IBL 教材，以及 *Visual Group Theory* 的官方样章与 Macauley / Ernst 公开讲义。中文系统讲义目前多是网页（如交大高云），没有官方 PDF，请到原站阅读。
 
 当前推荐的「一条主线」（均可合法公开获取课程或购买纸书）：
 
@@ -26,6 +26,7 @@
 | [中文讲义、笔记与课程大纲](resources/中文讲义与笔记.md) | 院校公开讲义、开源笔记、课程指南 |
 | [中文视频课程](resources/中文视频.md) | 慕课、学堂在线、B 站完整课程（优先系统课） |
 | [英文补充](resources/英文补充.md) | 免费讲义、公开课与可视化工具（英文） |
+| [Visual Group Theory 相关资料](resources/Visual-Group-Theory.md) | Carter 的书、官方样章、Macauley 视频课与讲义、Group Explorer |
 | [与范畴论 / 编程的衔接](resources/范畴论与编程衔接.md) | 群作为单对象群胚、Haskell 中的 `Group`；不是主线 |
 | [笔记骨架](notes/README.md) | 从「群的定义」开始的简短原创笔记 |
 | [pdfs/](pdfs/README.md) | 官方公开、许可允许保存的 PDF 离线副本（含来源与许可） |
