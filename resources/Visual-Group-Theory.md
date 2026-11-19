@@ -67,11 +67,13 @@ Clemson 课程站有时会返回错误或证书异常，但 2026 年 11 月再�
 
 - [第 1 节 Groups, intuitively](../pdfs/macauley-vgt/Macauley-Math4120-section1-Groups-intuitively.pdf)（61 页）
 - [第 2 节 Examples of groups](../pdfs/macauley-vgt/Macauley-Math4120-section2-Examples-of-groups.pdf)（37 页）
-- [第 3 节 The structure of groups](../pdfs/macauley-vgt/Macauley-Math4120-section3-Structure-of-groups.pdf)（65 页）
+- [第 3 节 The structure of groups](../pdfs/macauley-vgt/Macauley-Math4120-section3-Structure-of-groups.pdf)（67 页）
 - [第 4 节 Maps between groups](../pdfs/macauley-vgt/Macauley-Math4120-section4-Maps-between-groups.pdf)（51 页）
-- [第 5 节 Groups acting on sets](../pdfs/macauley-vgt/Macauley-Math4120-section5-Groups-acting-on-sets.pdf)（56 页）
+- [第 5 节 Groups acting on sets](../pdfs/macauley-vgt/Macauley-Math4120-section5-Groups-acting-on-sets.pdf)（57 页）
 - [第 6 节 Field and Galois theory](../pdfs/macauley-vgt/Macauley-Math4120-section6-Field-and-Galois-theory.pdf)（59 页）
 - [第 7 节 Ring theory](../pdfs/macauley-vgt/Macauley-Math4120-section7-Ring-theory.pdf)（46 页）
+
+这 7 份章节幻灯片另有**非官方中译本**（原幻灯片图像在上、简体中文译文在下），见 [translations/macauley-vgt/](../translations/macauley-vgt/)。译本是原讲义的演绎作品，与原文同以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 发布，仅供学习对照，并非官方中文版。Carter 书的样章、Ernst 2009 年讲义、课程大纲以及 Janet Chen 的魔方短文都没有翻译。
 
 另外还有 [教学大纲（2020 暑期）](../pdfs/macauley-vgt/Macauley-Math4120-syllabus-Summer2020.pdf) 和补充短文 [Group theory and the Rubik's cube](../pdfs/macauley-vgt/Macauley-group-theory-and-the-Rubiks-cube.pdf)。
 

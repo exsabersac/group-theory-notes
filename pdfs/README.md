@@ -142,6 +142,8 @@
 | [Macauley-group-theory-and-the-Rubiks-cube.pdf](macauley-vgt/Macauley-group-theory-and-the-Rubiks-cube.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/docs/group-theory-rubiks.pdf | 306 KB |
 | [Macauley-Math4120-syllabus-Summer2020.pdf](macauley-vgt/Macauley-Math4120-syllabus-Summer2020.pdf) | https://www.math.clemson.edu/~macaule/classes/m20_math4120/m20_math4120_syllabus.pdf | 98 KB |
 
+上述 7 份章节幻灯片另有**非官方中译本**（原图在上、中文在下），见 [translations/macauley-vgt/](../translations/macauley-vgt/)。译本是原讲义的演绎作品，与原文同以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 发布，仅供学习对照，并非官方中文版。本目录中的 Carter 样章、Ernst 2009 年讲义、课程大纲以及 Janet Chen 撰写的魔方短文都没有翻译。
+
 ## Dana Ernst 2009 年 Visual Group Theory 课程讲义（第 1–4 章）
 
 - 作者：Dana C. Ernst

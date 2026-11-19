@@ -13,3 +13,6 @@ Desktop.ini
 *.code-workspace
 __pycache__/
 .ipynb_checkpoints/
+
+# Intermediate artifacts for Chinese translations of Macauley VGT slides
+translations/macauley-vgt/_build/
