@@ -29,6 +29,7 @@
 | [Visual Group Theory 相关资料](resources/Visual-Group-Theory.md) | Carter 的书、官方样章、Macauley 视频课与讲义、Group Explorer |
 | [Macauley 讲义非官方中译](translations/macauley-vgt/) | 7 章幻灯片对照 PDF（原图 + 简体中文，CC BY-NC-SA 4.0） |
 | [与范畴论 / 编程的衔接](resources/范畴论与编程衔接.md) | 群作为单对象群胚、Haskell 中的 `Group`；不是主线 |
+| [拓扑学资源](resources/拓扑.md) | 点集拓扑与代数拓扑的精选索引（邻近学科，不是第二条主线） |
 | [笔记骨架](notes/README.md) | 从「群的定义」开始的简短原创笔记 |
 | [pdfs/](pdfs/README.md) | 官方公开、许可允许保存的 PDF 离线副本（含来源与许可） |
 
